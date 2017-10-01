@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { Router, Route, hashHistory, IndexRoute, browserHistory } from 'react-router'
-import { MainContainer, DashboardContainer} from 'modules'
+import { MainContainer, DashboardContainer } from 'modules'
 
 export default function getRoutes() {
   return (
